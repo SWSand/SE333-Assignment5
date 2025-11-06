@@ -1,6 +1,7 @@
 
 # SE333 - Assignment 5 - Unit, Mocking and Integration Testing
-
+## Workflow Status Badge
+[![.github/workflows/SE333_CI.yml](https://github.com/SWSand/SE333-Assignment5/actions/workflows/SE333_CI.yml/badge.svg?branch=main&event=push)](https://github.com/SWSand/SE333-Assignment5/actions/workflows/SE333_CI.yml)
 ## Project Overview
 
 This repository contains the starter code for Assignment 5 (Unit, Mocking and Integration Testing).
