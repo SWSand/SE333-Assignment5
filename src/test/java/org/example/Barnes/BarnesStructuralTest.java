@@ -9,7 +9,7 @@ class BarnesStructuralTest {
 
     @Test
     @DisplayName("structural-based")
-    void whenOrderIsNull_shouldReturnNull() {
+    void testOrderIsNullShouldReturnNull() {
 
         // Arrange
         BookDatabase bookDatabase = isbn -> new Book("ISBN-1", 5, 10);

@@ -14,6 +14,9 @@ It includes two sample modules:
 
 - Barnes specification tests: `src/test/java/org/example/Barnes/BarnesSpecificationTest.java` (@DisplayName("specification-based"))
 - Barnes structural tests: `src/test/java/org/example/Barnes/BarnesStructuralTest.java` (@DisplayName("structural-based"))
+- Amazon Integration tests: `src/test/java/org/example/Amazon/AmazonIntegratonTest.java`
+- Amazon Unit tests: `src/test/java/org/example/Amazon/AmazonUnitTest.java`
+- Amazon Shopping Cart tests: `src/test/java/org/example/Amazon/ShoppingCartAdaptorTest.java`
 - CI workflow (GitHub Actions) runs Checkstyle and the test suite and will be extended to publish JaCoCo (`jacoco.xml`) and Checkstyle artifacts.
 
 ## Quickstart:
